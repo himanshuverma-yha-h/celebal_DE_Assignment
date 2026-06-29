@@ -1,8 +1,0 @@
-store_id,username,age,region,product_category,price,subscription,email
-1,Alice,25,West,Electronics,500.0,Premium,alice@gmail.com
-2,Bob,30,East,Clothing,300.0,Basic,bob@gmail.com
-3,Charlie,22,West,Electronics,,Premium,
-4,David,28,North,Furniture,700.0,Premium,david@gmail.com
-5,Eva,19,West,Clothing,200.0,Premium,eva@gmail.com
-6,,27,South,Electronics,450.0,Basic,john@gmail.com
-1,Alice,25,West,Electronics,500.0,Premium,alice@gmail.com

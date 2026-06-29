@@ -1,0 +1,2 @@
+product_id,new_name,category,price,region,status,amount,final_price
+101,Laptop,Electronics,50000.0,North,Completed,1200,59000.0

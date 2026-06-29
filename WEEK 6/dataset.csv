@@ -1,0 +1,9 @@
+product_id,product_name,category,price,region,status,amount
+101,Laptop,Electronics,50000,North,Completed,1200
+102,Mouse,Electronics,1500,South,Pending,500
+103,Chair,Furniture,7000,North,Completed,2200
+104,Table,Furniture,12000,West,Completed,900
+105,Phone,Electronics,30000,East,Completed,4500
+106,Keyboard,Electronics,2500,North,Pending,700
+107,TV,Electronics,55000,West,Completed,5000
+108,Sofa,Furniture,25000,South,Completed,1800

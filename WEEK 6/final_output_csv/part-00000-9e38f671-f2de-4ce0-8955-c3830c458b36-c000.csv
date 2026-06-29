@@ -1,0 +1,7 @@
+product_id,product_name,category,price,region,status,amount,GST
+101,Laptop,Electronics,50000.0,North,Completed,1200,9000.0
+103,Chair,Furniture,7000.0,North,Completed,2200,1260.0
+104,Table,Furniture,12000.0,West,Completed,900,2160.0
+105,Phone,Electronics,30000.0,East,Completed,4500,5400.0
+107,TV,Electronics,55000.0,West,Completed,5000,9900.0
+108,Sofa,Furniture,25000.0,South,Completed,1800,4500.0

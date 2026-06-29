@@ -2,4 +2,4 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-archive/
+archive/WEEK 2/ecommerce.db

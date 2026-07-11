@@ -1,0 +1,28 @@
+
+E-COMMERCE ANALYTICS REPORT
+Report: SEGMENTS
+
++-------------+----------------------+--------------+-------------------+
+| customer_id | customer_name        | total_orders | frequency_segment |
++-------------+----------------------+--------------+-------------------+
+| 56          | Emily Fischer        | 9            | LOYAL             |
+| 39          | Tony Vazquez         | 6            | LOYAL             |
+| 92          | Lindsey Johnson      | 6            | LOYAL             |
+| 332         | Brandon Shaffer      | 6            | LOYAL             |
+| 348         | Holly Scott          | 6            | LOYAL             |
+| 391         | Deborah Campbell     | 6            | LOYAL             |
+| 572         | Mrs. Melanie Collins | 6            | LOYAL             |
+| 588         | Danielle Garrett     | 6            | LOYAL             |
+| 13          | James Ferrell        | 5            | LOYAL             |
+| 42          | Sierra Johnson       | 5            | LOYAL             |
+| 80          | Pamela Lopez         | 5            | LOYAL             |
+| 93          | Phillip Underwood    | 5            | LOYAL             |
+| 122         | Mark Watson          | 5            | LOYAL             |
+| 136         | Michelle James       | 5            | LOYAL             |
+| 152         | Donna Sullivan       | 5            | LOYAL             |
+| 206         | Kenneth Montgomery   | 5            | LOYAL             |
+| 211         | Cheryl Moore         | 5            | LOYAL             |
+| 212         | Kathy Levy           | 5            | LOYAL             |
+| 223         | Kaitlyn Charles      | 5            | LOYAL             |
+| 309         | Lisa Cervantes       | 5            | LOYAL             |
++-------------+----------------------+--------------+-------------------+

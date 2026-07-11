@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+1,Sweater,Clothing,Sweater,24769.42
+2,Laptop,Electronics,Laptop,38943.18
+3,Python Book,Books,Python Book,27914.55
+4,Keyboard,Electronics,Keyboard,6753.62
+5,Curtain,Home,Curtain,30671.35
+6,Cloud Computing Book,Books,Cloud Computing Book,22351.09
+7,Machine Learning Book,Books,Machine Learning Book,13033.66
+8,Pillow,Home,Pillow,24281.39
+9,Python Book,Books,Python Book,35705.89
+10,Lamp  ,Home,Lamp,44662.04
+11,Sweater,Clothing,Sweater,34728.1
+12,Keyboard,Electronics,Keyboard,20439.21
+13,Python Book,Books,Python Book,10421.04
+14,MOUSE,Electronics,Mouse,19081.01
+15,Curtain,Home,Curtain,42687.05
+16,Cloud Computing Book,Books,Cloud Computing Book,37401.03
+17,Sweater,Clothing,Sweater,11049.14
+18,Keyboard,Electronics,Keyboard,16872.86
+19,SQL Book,Books,SQL Book,42041.23
+20,Keyboard,Electronics,Keyboard,29635.45
+21,Keyboard,Electronics,Keyboard,6871.4
+22,Headphones,Electronics,Headphones,19017.28
+23,Lamp,Home,Lamp,38085.36
+24,Data Engineering Book,Books,Data Engineering Book,41762.05
+25,  Headphones,Electronics,Headphones,11288.69
+26,Smartphone  ,Electronics,Smartphone,10048.1
+27,Jeans,Clothing,Jeans,23730.7
+28,Sweater,Clothing,Sweater,35003.3
+29,Shoes,Clothing,Shoes,30401.65
+30,Smartphone,Electronics,Smartphone,48239.57
+31,Headphones,Electronics,Headphones,28832.26
+32,Machine Learning Book,Books,Machine Learning Book,47079.38
+33,T Shirt,Clothing,T Shirt,34889.93
+34,Mouse,Electronics,Mouse,39153.5
+35,Data Engineering Book,Books,Data Engineering Book,3540.94
+36,Keyboard,Electronics,Keyboard,41134.31
+37,Curtain,Home,Curtain,35394.7
+38,Pillow,Home,Pillow,40429.14
+39,Machine Learning Book,Books,Machine Learning Book,21835.17
+40,Lamp,Home,Lamp,42600.49
+41,Headphones,Electronics,Headphones,44093.4
+42,Cloud Computing Book,Books,Cloud Computing Book,30555.55
+43,Keyboard,Electronics,Keyboard,42562.55
+44,Jacket,Clothing,Jacket,39911.83
+45,Pillow,Home,Pillow,606.54
+46,Smartphone,Electronics,Smartphone,36031.73
+47,Sweater,Clothing,Sweater,32330.55
+48,Laptop,Electronics,Laptop,14782.36
+49,Jacket,Clothing,Jacket,33231.61
+50,Curtain,Home,Curtain,49831.91
+51,Curtain,Home,Curtain,13618.73
+52,Smartphone,Electronics,Smartphone,15845.84
+53,Jeans,Clothing,Jeans,10897.59
+54,Chair,Home,Chair,41648.16
+55,Table,Home,Table,15183.15
+56,JACKET,Clothing,Jacket,2371.23
+57,SWEATER,Clothing,Sweater,5219.12
+58,Machine Learning Book,Books,Machine Learning Book,22079.39
+59,Headphones,Electronics,Headphones,47059.07
+60,Keyboard,Electronics,Keyboard,24638.15
+61,Smartphone,Electronics,Smartphone,7544.96
+62,Chair,Home,Chair,49696.51
+63,Cloud Computing Book,Books,Cloud Computing Book,29846.73
+64,Machine Learning Book,Books,Machine Learning Book,45434.37
+65,  Data Engineering Book,Books,Data Engineering Book,28474.61
+66,Jeans  ,Clothing,Jeans,13305.84
+67,shoes,Clothing,Shoes,3845.74
+68,Data Engineering Book,Books,Data Engineering Book,1728.73
+69,Curtain,Home,Curtain,3651.87
+70,Pillow,Home,Pillow,33093.03
+71,Python Book,Books,Python Book,27273.66
+72,Table,Home,Table,3663.35
+73,Pillow,Home,Pillow,37472.99
+74,Curtain,Home,Curtain,6305.25
+75,Data Engineering Book,Books,Data Engineering Book,25073.56
+76,Mouse,Electronics,Mouse,2089.05
+77, PILLOW ,Home,Pillow,12593.36
+78,Headphones,Electronics,Headphones,28854.72
+79,Sweater,Clothing,Sweater,25996.3
+80,Table,Home,Table,49847.58
+81,Python Book,Books,Python Book,23553.52
+82,Chair,Home,Chair,42900.88
+83,Data Engineering Book,Books,Data Engineering Book,33162.92
+84,Keyboard,Electronics,Keyboard,4494.18
+85,Keyboard,Electronics,Keyboard,43259.04
+86, MOUSE ,Electronics,Mouse,23152.62
+87,Pillow,Home,Pillow,37846.51
+88,Smartphone,Electronics,Smartphone,13426.11
+89,Curtain,Home,Curtain,44054.25
+90,Mouse,Electronics,Mouse,39985.76
+91,Pillow,Home,Pillow,782.36
+92,T Shirt,Clothing,T Shirt,23126.25
+93,Sweater,Clothing,Sweater,46639.39
+94,Curtain,Home,Curtain,41752.72
+95,Sweater,Clothing,Sweater,27608.13
+96,T Shirt,Clothing,T Shirt,13884.75
+97,Data Engineering Book,Books,Data Engineering Book,46718.99
+98,Headphones,Electronics,Headphones,36329.94
+99,SQL Book,Books,SQL Book,22382.71
+100,Pillow,Home,Pillow,38167.35
+101,Table,Home,Table,49040.65
+102,SQL Book,Books,SQL Book,42815.05
+103,Curtain,Home,Curtain,35290.87
+104, SQL BOOK ,Books,SQL Book,24816.9
+105,Chair,Home,Chair,43722.1
+106,Python Book,Books,Python Book,36149.95
+107,T Shirt,Clothing,T Shirt,23527.58
+108,Pillow,Home,Pillow,34665.96
+109,Pillow,Home,Pillow,19062.47
+110,CLOUD COMPUTING BOOK,Books,Cloud Computing Book,1891.37
+111,  T Shirt,Clothing,T Shirt,21755.18
+112,SQL Book,Books,SQL Book,34730.66
+113,Headphones,Electronics,Headphones,39827.56
+114,Curtain,Home,Curtain,7363.93
+115,Jeans,Clothing,Jeans,8835.96
+116,Cloud Computing Book,Books,Cloud Computing Book,34188.42
+117,Jeans,Clothing,Jeans,23111.38
+118,Chair,Home,Chair,44955.54
+119,Pillow,Home,Pillow,7982.98
+120,Pillow,Home,Pillow,15027.8
+121,Curtain,Home,Curtain,42280.67
+122,Machine Learning Book,Books,Machine Learning Book,5422.0
+123,Pillow,Home,Pillow,14864.03
+124,Keyboard,Electronics,Keyboard,13796.57
+125,Mouse,Electronics,Mouse,37284.09
+126,Table,Home,Table,30392.54
+127,Shoes,Clothing,Shoes,12606.28
+128,T Shirt,Clothing,T Shirt,45179.84
+129,Curtain,Home,Curtain,1764.89
+130,T Shirt,Clothing,T Shirt,45490.43
+131,SQL Book,Books,SQL Book,10119.66
+132,Pillow,Home,Pillow,25139.56
+133,Jacket,Clothing,Jacket,45711.04
+134,Lamp,Home,Lamp,40231.2
+135,Smartphone,Electronics,Smartphone,37732.16
+136,Cloud Computing Book,Books,Cloud Computing Book,18352.17
+137,Headphones,Electronics,Headphones,26874.96
+138,Pillow,Home,Pillow,19113.17
+139,Chair,Home,Chair,33774.34
+140,pillow,Home,Pillow,11146.22
+141,  Curtain,Home,Curtain,5922.13
+142,Curtain,Home,Curtain,5894.41
+143,Sweater,Clothing,Sweater,22736.82
+144,Cloud Computing Book,Books,Cloud Computing Book,37139.22
+145,Python Book,Books,Python Book,41701.28
+146,Chair,Home,Chair,34545.01
+147,SQL BOOK,Books,SQL Book,42786.96
+148,Chair,Home,Chair,19967.17
+149,Keyboard,Electronics,Keyboard,4674.5
+150,Laptop,Electronics,Laptop,39361.05
+151,Shoes,Clothing,Shoes,10339.76
+152,Shoes,Clothing,Shoes,10875.97
+153,Table,Home,Table,39453.32
+154,Table,Home,Table,49377.61
+155,  T Shirt,Clothing,T Shirt,33086.78
+156,TABLE,Home,Table,29483.76
+157,Smartphone,Electronics,Smartphone,37111.73
+158,Keyboard,Electronics,Keyboard,22468.93
+159,Keyboard,Electronics,Keyboard,25241.55
+160,Mouse,Electronics,Mouse,15151.35
+161,Laptop,Electronics,Laptop,49929.48
+162,Python Book,Books,Python Book,24564.42
+163,Laptop,Electronics,Laptop,16173.38
+164,Jacket,Clothing,Jacket,31253.44
+165,Curtain,Home,Curtain,49731.93
+166,  Cloud Computing Book,Books,Cloud Computing Book,30310.8
+167,Sweater,Clothing,Sweater,22632.59
+168,Curtain,Home,Curtain,19996.64
+169,Curtain,Home,Curtain,15694.93
+170,Sweater,Clothing,Sweater,3449.95
+171,Keyboard,Electronics,Keyboard,4918.57
+172,Shoes,Clothing,Shoes,3093.05
+173,Chair,Home,Chair,20599.35
+174,Python Book,Books,Python Book,48423.09
+175,Chair,Home,Chair,28938.13
+176,SQL Book,Books,SQL Book,42379.01
+177,Chair,Home,Chair,38154.02
+178,Cloud Computing Book,Books,Cloud Computing Book,48729.88
+179,Mouse,Electronics,Mouse,46461.31
+180,Chair,Home,Chair,9102.76
+181,Lamp,Home,Lamp,17616.07
+182,  Shoes,Clothing,Shoes,32901.5
+183,Mouse,Electronics,Mouse,10835.13
+184,Table,Home,Table,18565.65
+185,Laptop,Electronics,Laptop,7863.44
+186,Laptop,Electronics,Laptop,13677.93
+187,Cloud Computing Book,Books,Cloud Computing Book,22158.0
+188,Headphones,Electronics,Headphones,21552.69
+189,cloud computing book,Books,Cloud Computing Book,33389.91
+190,Laptop,Electronics,Laptop,10300.71
+191,Jacket,Clothing,Jacket,14543.41
+192,Machine Learning Book,Books,Machine Learning Book,8867.17
+193,Shoes,Clothing,Shoes,27980.31
+194,Chair,Home,Chair,19913.85
+195,PYTHON BOOK,Books,Python Book,23041.74
+196,Cloud Computing Book,Books,Cloud Computing Book,20280.7
+197,Chair,Home,Chair,20311.11
+198,Shoes,Clothing,Shoes,23058.84
+199,Chair,Home,Chair,21891.92
+200,CLOUD COMPUTING BOOK,Books,Cloud Computing Book,20082.45
+201,Table,Home,Table,16720.12
+202,Mouse,Electronics,Mouse,25546.61
+203,Lamp,Home,Lamp,36396.22
+204,Jeans,Clothing,Jeans,5229.95
+205,Shoes,Clothing,Shoes,7728.2
+206,Smartphone,Electronics,Smartphone,47569.48
+207,Cloud Computing Book,Books,Cloud Computing Book,38017.87
+208,lamp,Home,Lamp,7632.77
+209,Lamp,Home,Lamp,29611.85
+210,HEADPHONES,Electronics,Headphones,23140.95
+211,Chair,Home,Chair,32268.86
+212,Mouse,Electronics,Mouse,29744.58
+213,Keyboard,Electronics,Keyboard,45461.59
+214,Jacket,Clothing,Jacket,30289.79
+215,Keyboard,Electronics,Keyboard,5264.74
+216,Chair,Home,Chair,25277.0
+217,Sweater,Clothing,Sweater,49550.2
+218,Jacket,Clothing,Jacket,18705.31
+219,DATA ENGINEERING BOOK,Books,Data Engineering Book,33977.0
+220,Headphones,Electronics,Headphones,4815.85
+221,Lamp,Home,Lamp,36214.31
+222,Jacket,Clothing,Jacket,4166.95
+223,Lamp,Home,Lamp,48388.06
+224,SQL Book,Books,SQL Book,29792.56
+225,Pillow,Home,Pillow,18896.3
+226,Shoes,Clothing,Shoes,4763.3
+227,Chair,Home,Chair,18193.62
+228,Jacket,Clothing,Jacket,47388.65
+229,Jeans,Clothing,Jeans,7831.76
+230,Mouse,Electronics,Mouse,38566.65
+231,Headphones,Electronics,Headphones,43832.0
+232,SQL Book,Books,SQL Book,8196.14
+233,Sweater,Clothing,Sweater,2280.25
+234,Sweater,Clothing,Sweater,30568.71
+235,SQL Book,Books,SQL Book,26747.16
+236,SQL Book,Books,SQL Book,18455.26
+237,Machine Learning Book,Books,Machine Learning Book,38494.98
+238,SQL Book,Books,SQL Book,40862.87
+239,Jacket,Clothing,Jacket,2703.77
+240,Pillow,Home,Pillow,46721.25
+241,Headphones,Electronics,Headphones,4285.37
+242,Cloud Computing Book,Books,Cloud Computing Book,7452.7
+243,Sweater,Clothing,Sweater,44243.03
+244,Python Book,Books,Python Book,19883.05
+245,  Python Book,Books,Python Book,18808.14
+246,Table,Home,Table,6966.22
+247,SQL Book,Books,SQL Book,37966.17
+248,Laptop,Electronics,Laptop,1048.29
+249,Shoes,Clothing,Shoes,47017.27
+250,Python Book,Books,Python Book,38831.01
+251,Laptop,Electronics,Laptop,11998.13
+252,Python Book,Books,Python Book,5631.81
+253,Mouse,Electronics,Mouse,28794.87
+254,Curtain,Home,Curtain,178.06
+255,SQL BOOK,Books,SQL Book,33252.13
+256,Mouse,Electronics,Mouse,27249.69
+257,keyboard,Electronics,Keyboard,43679.24
+258,Lamp,Home,Lamp,37391.1
+259,Headphones,Electronics,Headphones,12132.18
+260,Mouse,Electronics,Mouse,36785.83
+261,Headphones,Electronics,Headphones,27346.09
+262,Sweater,Clothing,Sweater,49042.88
+263,Jeans,Clothing,Jeans,3248.72
+264,Python Book  ,Books,Python Book,14742.78
+265,Headphones,Electronics,Headphones,46675.21
+266,Data Engineering Book,Books,Data Engineering Book,1927.38
+267,LAMP,Home,Lamp,43120.71
+268,Chair,Home,Chair,39987.19
+269,Machine Learning Book,Books,Machine Learning Book,44742.41
+270,Sweater,Clothing,Sweater,34634.22
+271, CHAIR ,Home,Chair,36381.36
+272,Shoes,Clothing,Shoes,14758.94
+273,Lamp,Home,Lamp,15394.14
+274,SQL Book,Books,SQL Book,34519.26
+275,Headphones,Electronics,Headphones,30781.09
+276,Laptop,Electronics,Laptop,33592.08
+277,T Shirt,Clothing,T Shirt,7224.7
+278,Python Book,Books,Python Book,6398.88
+279,Lamp,Home,Lamp,19204.43
+280,Sweater,Clothing,Sweater,47446.29
+281,Mouse,Electronics,Mouse,6970.99
+282,Lamp,Home,Lamp,12555.62
+283,Sweater,Clothing,Sweater,25935.49
+284,Headphones,Electronics,Headphones,38770.73
+285,Shoes,Clothing,Shoes,14350.29
+286,SQL Book,Books,SQL Book,6219.61
+287,SQL Book,Books,SQL Book,44944.08
+288,Headphones,Electronics,Headphones,33425.21
+289,Lamp,Home,Lamp,42582.97
+290,Jacket,Clothing,Jacket,25486.91
+291,Jeans,Clothing,Jeans,11913.14
+292,Pillow,Home,Pillow,28656.64
+293,shoes,Clothing,Shoes,44223.9
+294,Cloud Computing Book,Books,Cloud Computing Book,20598.68
+295,Smartphone,Electronics,Smartphone,48621.75
+296,Machine Learning Book,Books,Machine Learning Book,34037.44
+297,Jeans,Clothing,Jeans,21687.65
+298,Laptop,Electronics,Laptop,25953.3
+299,Jacket,Clothing,Jacket,46743.42
+300,Chair,Home,Chair,12605.2
+301,Table,Home,Table,31288.62
+302,Mouse,Electronics,Mouse,32085.27
+303,Jeans,Clothing,Jeans,32970.77
+304,Pillow,Home,Pillow,2155.6
+305,Laptop,Electronics,Laptop,47432.49
+306,Table,Home,Table,38371.25
+307,Keyboard,Electronics,Keyboard,44460.94
+308,Curtain,Home,Curtain,12319.41
+309,Data Engineering Book,Books,Data Engineering Book,22731.85
+310,Sweater,Clothing,Sweater,20839.53
+311,Pillow,Home,Pillow,7269.07
+312,Lamp,Home,Lamp,48771.17
+313,Pillow,Home,Pillow,28126.4
+314,Python Book,Books,Python Book,13446.84
+315,Laptop,Electronics,Laptop,14581.58
+316,SQL Book,Books,SQL Book,48138.02
+317,Pillow,Home,Pillow,36084.31
+318,Sweater,Clothing,Sweater,49798.87
+319,Curtain,Home,Curtain,1256.5
+320,SQL Book,Books,SQL Book,10835.71
+321,Headphones,Electronics,Headphones,24795.22
+322,Data Engineering Book,Books,Data Engineering Book,26880.87
+323,SQL Book,Books,SQL Book,44134.54
+324, DATA ENGINEERING BOOK ,Books,Data Engineering Book,2357.6
+325, JACKET ,Clothing,Jacket,27705.82
+326,Cloud Computing Book,Books,Cloud Computing Book,14058.06
+327,Smartphone,Electronics,Smartphone,48756.63
+328,Pillow,Home,Pillow,46953.53
+329,Shoes,Clothing,Shoes,25505.21
+330,Laptop,Electronics,Laptop,6938.12
+331,Cloud Computing Book,Books,Cloud Computing Book,22903.73
+332,Jacket,Clothing,Jacket,46575.3
+333,Cloud Computing Book,Books,Cloud Computing Book,36992.04
+334,Pillow,Home,Pillow,41431.64
+335,Curtain,Home,Curtain,40805.87
+336,Keyboard,Electronics,Keyboard,29226.74
+337,Mouse,Electronics,Mouse,23782.05
+338,T Shirt,Clothing,T Shirt,29217.81
+339,SQL Book,Books,SQL Book,41100.9
+340,Smartphone,Electronics,Smartphone,1044.97
+341,Sweater,Clothing,Sweater,34555.96
+342,Python Book,Books,Python Book,35318.18
+343,Curtain,Home,Curtain,26321.31
+344,Sweater,Clothing,Sweater,45615.0
+345,Lamp,Home,Lamp,30542.82
+346,Jacket,Clothing,Jacket,27948.52
+347,Lamp,Home,Lamp,35274.56
+348,Data Engineering Book,Books,Data Engineering Book,24042.19
+349,Lamp,Home,Lamp,6181.52
+350,Machine Learning Book,Books,Machine Learning Book,40937.04
+351,Jacket,Clothing,Jacket,2199.12
+352,Headphones,Electronics,Headphones,46208.08
+353,SQL Book,Books,SQL Book,10183.19
+354,Table,Home,Table,5550.41
+355,Jeans,Clothing,Jeans,2633.19
+356,Jeans,Clothing,Jeans,2719.31
+357,Python Book,Books,Python Book,34091.48
+358,Sweater,Clothing,Sweater,32679.35
+359,Machine Learning Book,Books,Machine Learning Book,32561.88
+360,  Lamp,Home,Lamp,14342.23
+361,Shoes,Clothing,Shoes,36960.46
+362,Smartphone,Electronics,Smartphone,20952.46
+363,Keyboard,Electronics,Keyboard,39419.24
+364,Chair,Home,Chair,562.43
+365,Headphones,Electronics,Headphones,14299.63
+366,SQL Book,Books,SQL Book,42567.88
+367,T Shirt,Clothing,T Shirt,16601.14
+368,Table,Home,Table,802.8
+369,Pillow,Home,Pillow,33752.62
+370,  Machine Learning Book,Books,Machine Learning Book,25812.5
+371,Jeans,Clothing,Jeans,23924.96
+372,Headphones,Electronics,Headphones,19240.36
+373,Lamp,Home,Lamp,15167.1
+374,Headphones,Electronics,Headphones,32718.8
+375,Laptop,Electronics,Laptop,23323.21
+376,Chair,Home,Chair,31971.7
+377,Pillow,Home,Pillow,11120.38
+378,SQL Book,Books,SQL Book,22803.44
+379,Curtain,Home,Curtain,35126.84
+380,Jeans,Clothing,Jeans,34049.06
+381,Mouse,Electronics,Mouse,22392.72
+382,Mouse,Electronics,Mouse,5699.22
+383,Shoes,Clothing,Shoes,26879.34
+384,Python Book,Books,Python Book,34046.73
+385,Python Book,Books,Python Book,44954.58
+386,Keyboard,Electronics,Keyboard,6684.02
+387,Mouse,Electronics,Mouse,23172.68
+388,Keyboard  ,Electronics,Keyboard,12797.42
+389,Laptop,Electronics,Laptop,21242.5
+390,Laptop,Electronics,Laptop,49308.25
+391,Curtain,Home,Curtain,9081.07
+392,Data Engineering Book,Books,Data Engineering Book,49643.54
+393,Machine Learning Book,Books,Machine Learning Book,4104.47
+394,Jacket,Clothing,Jacket,6019.8
+395,Cloud Computing Book,Books,Cloud Computing Book,6454.62
+396,Laptop,Electronics,Laptop,48926.69
+397,Cloud Computing Book,Books,Cloud Computing Book,19025.9
+398,Data Engineering Book,Books,Data Engineering Book,7840.56
+399,Laptop,Electronics,Laptop,40492.96
+400,Smartphone,Electronics,Smartphone,10383.47
+401,Keyboard,Electronics,Keyboard,29929.47
+402,Smartphone,Electronics,Smartphone,37053.0
+403,Shoes,Clothing,Shoes,10941.73
+404,Smartphone,Electronics,Smartphone,25244.4
+405,Pillow,Home,Pillow,29936.09
+406,Table,Home,Table,15158.05
+407, SWEATER ,Clothing,Sweater,15095.0
+408,SWEATER,Clothing,Sweater,27836.95
+409,Cloud Computing Book,Books,Cloud Computing Book,16004.85
+410,Jacket,Clothing,Jacket,18885.36
+411,SQL Book,Books,SQL Book,42482.11
+412,Sweater,Clothing,Sweater,45745.58
+413,Cloud Computing Book,Books,Cloud Computing Book,26546.59
+414,table,Home,Table,16580.12
+415,Chair,Home,Chair,26828.21
+416,Headphones,Electronics,Headphones,18920.68
+417,Laptop,Electronics,Laptop,9489.35
+418,Sweater,Clothing,Sweater,10523.57
+419,Chair,Home,Chair,10669.21
+420,Keyboard,Electronics,Keyboard,45730.62
+421,Sweater,Clothing,Sweater,45764.81
+422,Curtain,Home,Curtain,23365.9
+423,Lamp,Home,Lamp,18046.27
+424,Python Book,Books,Python Book,40160.55
+425,Table,Home,Table,18598.18
+426,Jeans,Clothing,Jeans,909.37
+427,Data Engineering Book,Books,Data Engineering Book,7705.33
+428,Cloud Computing Book,Books,Cloud Computing Book,41684.8
+429,Lamp,Home,Lamp,38191.7
+430,Machine Learning Book,Books,Machine Learning Book,8494.86
+431,Jeans,Clothing,Jeans,36043.65
+432,Mouse,Electronics,Mouse,1787.81
+433,Laptop,Electronics,Laptop,20678.37
+434, T SHIRT ,Clothing,T Shirt,35387.76
+435,Data Engineering Book,Books,Data Engineering Book,3116.46
+436,Machine Learning Book,Books,Machine Learning Book,885.02
+437,Python Book,Books,Python Book,934.63
+438,Chair,Home,Chair,25160.58
+439,SQL Book  ,Books,SQL Book,5440.12
+440,Jeans,Clothing,Jeans,31027.06
+441,lamp,Home,Lamp,39767.32
+442,Cloud Computing Book,Books,Cloud Computing Book,12236.07
+443,Chair,Home,Chair,32721.41
+444,Laptop,Electronics,Laptop,20323.39
+445,Python Book,Books,Python Book,31873.73
+446,Keyboard,Electronics,Keyboard,42281.96
+447,Pillow,Home,Pillow,48868.73
+448,Smartphone,Electronics,Smartphone,10649.71
+449,DATA ENGINEERING BOOK,Books,Data Engineering Book,2423.44
+450,Smartphone,Electronics,Smartphone,46445.44
+451,Shoes,Clothing,Shoes,7295.16
+452,Python Book,Books,Python Book,15033.92
+453,Cloud Computing Book,Books,Cloud Computing Book,16653.32
+454,T Shirt,Clothing,T Shirt,25089.56
+455,Laptop,Electronics,Laptop,21910.7
+456,Pillow,Home,Pillow,38473.38
+457,Data Engineering Book,Books,Data Engineering Book,1578.32
+458,Machine Learning Book,Books,Machine Learning Book,11484.11
+459,Machine Learning Book,Books,Machine Learning Book,9368.32
+460,Python Book,Books,Python Book,38631.15
+461,T Shirt,Clothing,T Shirt,4193.7
+462,Sweater,Clothing,Sweater,15902.24
+463,Headphones,Electronics,Headphones,22292.32
+464,Smartphone,Electronics,Smartphone,4456.13
+465,Python Book,Books,Python Book,1410.47
+466,Mouse,Electronics,Mouse,29942.39
+467,Python Book,Books,Python Book,14663.18
+468,Mouse,Electronics,Mouse,45269.86
+469,Sweater,Clothing,Sweater,8558.14
+470,Curtain,Home,Curtain,7382.15
+471,Curtain,Home,Curtain,15057.64
+472,Lamp,Home,Lamp,47216.69
+473,Cloud Computing Book,Books,Cloud Computing Book,30871.77
+474,Jacket,Clothing,Jacket,437.69
+475,Data Engineering Book,Books,Data Engineering Book,22067.12
+476,Jacket,Clothing,Jacket,16101.19
+477,Sweater,Clothing,Sweater,15777.75
+478,Lamp,Home,Lamp,36770.23
+479,Jacket,Clothing,Jacket,18865.16
+480,Data Engineering Book,Books,Data Engineering Book,5783.0
+481,Shoes,Clothing,Shoes,1443.11
+482,Sweater,Clothing,Sweater,39904.51
+483,Keyboard,Electronics,Keyboard,33681.58
+484,Table,Home,Table,12708.82
+485,Machine Learning Book,Books,Machine Learning Book,3790.86
+486,Cloud Computing Book,Books,Cloud Computing Book,20100.17
+487,Cloud Computing Book,Books,Cloud Computing Book,1934.58
+488,Laptop,Electronics,Laptop,38470.81
+489,table,Home,Table,32385.29
+490,Curtain  ,Home,Curtain,5386.63
+491,Sweater,Clothing,Sweater,18768.57
+492,Jacket,Clothing,Jacket,49885.37
+493,Curtain  ,Home,Curtain,46035.32
+494,Lamp,Home,Lamp,17219.03
+495,Data Engineering Book,Books,Data Engineering Book,23860.51
+496,  Data Engineering Book,Books,Data Engineering Book,3452.0
+497,Headphones,Electronics,Headphones,32433.7
+498,Jeans,Clothing,Jeans,25848.1
+499,Pillow,Home,Pillow,21375.83
+500,SQL Book,Books,SQL Book,9400.71

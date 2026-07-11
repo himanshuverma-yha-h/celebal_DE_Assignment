@@ -1,0 +1,18 @@
+E-COMMERCE DATA CLEANING ISSUES REPORT
+=============================================
+
+Orders with NULL customer_id: 59
+Orders with wrong date format: 52
+Orders with invalid dates after parsing: 0
+Duplicate orders removed: 0
+Product names normalized: 74
+Duplicate products removed: 0
+Duplicate customers removed: 0
+Invalid email count: 12
+Customers with invalid emails: [87, 96, 174, 219, 291, 330, 344, 453, 477, 485, 524, 528]
+Duplicate order items removed: 0
+Negative quantity records found: 103
+Invalid discount records found: 0
+Orders removed due to invalid customer reference: 30
+Order items referencing non-existent orders: 221
+Order items referencing non-existent products: 0

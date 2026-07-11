@@ -1,0 +1,12 @@
+
+E-COMMERCE ANALYTICS REPORT
+Report: REVENUE
+
++-------------+---------------+
+| category    | total_revenue |
++-------------+---------------+
+| Books       | 40727157.81   |
+| Home        | 39255381.55   |
+| Clothing    | 36619976.67   |
+| Electronics | 34357325.76   |
++-------------+---------------+

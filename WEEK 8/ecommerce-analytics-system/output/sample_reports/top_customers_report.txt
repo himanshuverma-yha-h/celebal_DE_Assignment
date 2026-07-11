@@ -1,0 +1,18 @@
+
+E-COMMERCE ANALYTICS REPORT
+Report: TOP_CUSTOMERS
+
++-------------+----------------------+----------------+
+| customer_id | customer_name        | lifetime_value |
++-------------+----------------------+----------------+
+| 93          | Phillip Underwood    | 1564726.71     |
+| 56          | Emily Fischer        | 1307642.38     |
+| 77          | Peter Vaughn Dds     | 1299837.77     |
+| 572         | Mrs. Melanie Collins | 1273559.07     |
+| 340         | Dennis Williams      | 1219958.24     |
+| 384         | Cynthia Haas         | 1207642.41     |
+| 211         | Cheryl Moore         | 1198829.8      |
+| 117         | Amanda Diaz          | 1186752.38     |
+| 320         | Donna Adams          | 1161185.95     |
+| 445         | Mariah Robles        | 1023861.33     |
++-------------+----------------------+----------------+

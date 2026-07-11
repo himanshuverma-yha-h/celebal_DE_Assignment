@@ -1,0 +1,92 @@
+
+======================================================================
+RUNNING SQL FILE: sql/aggregations.sql
+======================================================================
+
+QUERY 1
+----------------------------------------------------------------------
+category | total_revenue
+----------------------------------------------------------------------
+Books | 40727157.81
+Home | 39255381.55
+Clothing | 36619976.67
+Electronics | 34357325.76
+
+QUERY 2
+----------------------------------------------------------------------
+customer_id | customer_name | total_order_value
+----------------------------------------------------------------------
+93 | Phillip Underwood | 1564726.71
+56 | Emily Fischer | 1307642.38
+77 | Peter Vaughn Dds | 1299837.77
+572 | Mrs. Melanie Collins | 1273559.07
+340 | Dennis Williams | 1219958.24
+384 | Cynthia Haas | 1207642.41
+211 | Cheryl Moore | 1198829.8
+117 | Amanda Diaz | 1186752.38
+320 | Donna Adams | 1161185.95
+445 | Mariah Robles | 1023861.33
+
+QUERY 3
+----------------------------------------------------------------------
+order_month | total_orders
+----------------------------------------------------------------------
+2025-07 | 30
+2025-08 | 46
+2025-09 | 56
+2025-10 | 47
+2025-11 | 56
+2025-12 | 52
+2026-01 | 44
+2026-02 | 36
+2026-03 | 37
+2026-04 | 49
+2026-05 | 36
+2026-06 | 42
+2026-07 | 16
+
+QUERY 4
+----------------------------------------------------------------------
+customer_id | customer_name | total_orders
+----------------------------------------------------------------------
+39 | Tony Vazquez | 6
+92 | Lindsey Johnson | 6
+348 | Holly Scott | 6
+13 | James Ferrell | 5
+42 | Sierra Johnson | 5
+80 | Pamela Lopez | 5
+93 | Phillip Underwood | 5
+122 | Mark Watson | 5
+223 | Kaitlyn Charles | 5
+340 | Dennis Williams | 5
+503 | Dennis Young | 5
+550 | Heather Nunez | 5
+553 | Matthew Nelson | 5
+79 | Heather Chavez | 4
+83 | Julie Alexander | 4
+148 | Douglas Gregory | 4
+178 | Ricardo Young | 4
+195 | Deborah Green | 4
+266 | Dale Edwards | 4
+295 | Rebecca Chambers | 4
+... 305 more rows
+
+QUERY 5
+----------------------------------------------------------------------
+product_id | product_name | purchased_quantity | returned_quantity
+----------------------------------------------------------------------
+447 | Pillow | 6 | 7
+288 | Headphones | 4 | 6
+140 | Pillow | 3 | 5
+441 | Lamp | 3 | 5
+293 | Shoes | 0 | 2
+279 | Lamp | 0 | 1
+
+QUERY 6
+----------------------------------------------------------------------
+category | returned_items | total_items | return_rate_percent
+----------------------------------------------------------------------
+Home | 104 | 2245 | 4.63
+Clothing | 63 | 1919 | 3.28
+Books | 69 | 2218 | 3.11
+Electronics | 55 | 1997 | 2.75

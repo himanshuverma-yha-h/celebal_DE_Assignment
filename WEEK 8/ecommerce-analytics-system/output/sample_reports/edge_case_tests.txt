@@ -1,0 +1,10 @@
+
+RUNNING EDGE CASE TESTS
+
+PASS - Zero orders handled correctly
+PASS - Single customer handled correctly
+PASS - Future date detected correctly
+PASS - Invalid foreign key rejected
+PASS - Empty result set handled correctly
+
+ALL EDGE CASE TESTS PASSED
